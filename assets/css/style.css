@@ -1,0 +1,38 @@
+* {
+  margin: 10;
+  padding: 10;
+}
+.menu {
+  background-color: rgb(189, 189, 206);
+  padding: 1;
+}
+
+.tamanoCasilla {
+  padding: 3px 3px 3px 3px;
+  width: 110px;
+  height: 100px;
+}
+
+.tableNumeros {
+  text-align: center;
+  padding: 10px 165px 0px 160px;
+  display: grid;
+}
+.contenedor {
+  display: grid;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 10px 0px 0px;
+  font-size: 25px;
+}
+
+h1 {
+  color: rgba(36, 0, 167, 0.966);
+  text-align: center;
+  font-size: 60px;
+}
+h2 {
+  text-align: center;
+  color: rgb(8, 109, 5);
+}
